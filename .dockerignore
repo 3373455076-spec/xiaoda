@@ -1,0 +1,14 @@
+node_modules
+.pnpm-store
+.git
+.claude
+.dist
+.cache
+dist
+dist-*
+server/dist
+coverage
+.env
+.env.*
+key
+README.md
